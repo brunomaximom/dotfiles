@@ -149,7 +149,7 @@ menu "main"
     "Steam"     !"steam&"
     "Webots"    !"webots&"
     "Xpdf"	 	!"xpdf&"
-    "Xterm"     !"xterm -fa default -fs 30 -maximized&"
+    "Xterm"     !"xterm -fa default -fs 30 -maximized -e 'dash -E'&"
     ""			f.nop
     "Show Icon Manager" f.showiconmgr
     "Version"   f.version
