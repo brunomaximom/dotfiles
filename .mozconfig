@@ -18,6 +18,8 @@ ac_add_options --disable-webrtc
 ac_add_options --disable-gamepad
 ac_add_options --disable-tests
 ac_add_options --disable-debug
+ac_add_options --disable-dbus
+ac_add_options --disable-gio
 ac_add_options --disable-necko-wifi
 ac_add_options --disable-updater
 ac_add_options --with-pthreads
